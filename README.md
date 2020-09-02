@@ -1,0 +1,2 @@
+# Synolo
+Synolo website draft
