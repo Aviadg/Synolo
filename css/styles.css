@@ -1725,7 +1725,7 @@ a:hover.back-to-top {
 	/* Navigation */
 	.navbar-custom {
 		padding: 2.125rem 1.5rem 2.125rem 2rem;
-        /* background: transparent;*/
+                background: transparent;
 		box-shadow: none;
 	}
 
